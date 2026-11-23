@@ -1,0 +1,6 @@
+{
+  "name": "SmartCards",
+  "description": "SmartCards – Flashcards & Quiz Maker for creating unlimited decks, studying with flip animations, taking multiple-choice and true/false quizzes, and tracking learning progress.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
